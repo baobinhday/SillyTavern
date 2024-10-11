@@ -24,7 +24,7 @@ autorunPortOverride: -1
 # Toggle whitelist mode
 whitelistMode: false
 # Whitelist will also verify IP in X-Forwarded-For / X-Real-IP headers
-enableForwardedWhitelist: true
+enableForwardedWhitelist: false
 # Whitelist of allowed IP addresses
 whitelist:
   - ::1
